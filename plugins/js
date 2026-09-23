@@ -37,7 +37,7 @@ cmd({
         const finalMessage = `${randomSher}
 
 ---
-🎀 Love MD 🎀`;
+💞 𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪 💞`;
         
         await reply(finalMessage);
     } catch (e) {
