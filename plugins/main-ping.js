@@ -32,7 +32,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
         const end = new Date().getTime();
         const responseTime = (end - start) / 1000;
 
-        const text = `> *TlGER-MD SPEED: ${responseTime.toFixed(2)}ms ${reactionEmoji}*`;
+        const text = `> *𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪 SPEED: ${responseTime.toFixed(2)}ms ${reactionEmoji}*`;
 
         await conn.sendMessage(from, {
             text,
@@ -41,8 +41,8 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363411750982159@newsletter',
-                    newsletterName: "TlGER-MD",
+                    newsletterJid: '120363423987455239@newsletter',
+                    newsletterName: "𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪",
                     serverMessageId: 143
                 }
             }
@@ -79,7 +79,7 @@ async (conn, mek, m, { from, reply }) => {
 
         // Stylish formatted output
         const msg = `
-*╭┈──〔 ⚡ TlGER-MD Pɪɴɢ 〕─⊷*
+*╭┈──〔 ⚡ 𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪 Pɪɴɢ 〕─⊷*
 *├▢ 📶 Response:* ${ping} ms
 *├▢ 🧠 Status:* ${status}
 *├▢ 💫 Mode:* Active & Stable
