@@ -63,11 +63,11 @@ cmd({
     ];
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
     
-    let msg = `┏━━━ 🥀 *TIGER MD* 🥀 ━━━┓\n\n`;
+    let msg = `┏━━━ 🥀 *𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪* 🥀 ━━━┓\n\n`;
     msg += `🖤 *SAD MORNING*\n`;
     msg += `💬 "${randomQuote}"\n\n`;
     msg += `┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n`;
-    msg += `🔥 *DEVELOPER : BAGGA SHER MD*`;
+    msg += `🔥 *DEVELOPER : 𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪*`;
 
     return await conn.sendMessage(m.chat, { text: msg }, { quoted: mek });
 });
@@ -135,11 +135,11 @@ cmd({
     ];
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
     
-    let msg = `┏━━━ 🖤 *TIGER MD* 🖤 ━━━┓\n\n`;
+    let msg = `┏━━━ 🖤 *𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪* 🖤 ━━━┓\n\n`;
     msg += `🥀 *SAD NIGHT*\n`;
     msg += `💬 "${randomQuote}"\n\n`;
     msg += `┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n`;
-    msg += `🔥 *DEVELOPER : BAGGA SHER MD*`;
+    msg += `🔥 *DEVELOPER : 𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪*`;
 
     return await conn.sendMessage(m.chat, { text: msg }, { quoted: mek });
 });
@@ -207,11 +207,11 @@ cmd({
     ];
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
     
-    let msg = `┏━━━ 🖤 *TIGER MD* 🖤 ━━━┓\n\n`;
+    let msg = `┏━━━ 🖤 *𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪* 🖤 ━━━┓\n\n`;
     msg += `🥀 *SAD HELLO*\n`;
     msg += `💬 "${randomQuote}"\n\n`;
     msg += `┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n`;
-    msg += `🔥 *DEVELOPER : BAGGA SHER MD*`;
+    msg += `🔥 *DEVELOPER : 𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪*`;
 
     return await conn.sendMessage(m.chat, { text: msg }, { quoted: mek });
 });
@@ -279,11 +279,11 @@ cmd({
     ];
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
     
-    let msg = `┏━━━ 🥀 *TIGER MD* 🥀 ━━━┓\n\n`;
+    let msg = `┏━━━ 🥀 *𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪* 🥀 ━━━┓\n\n`;
     msg += `🖤 *SAD HI*\n`;
     msg += `💬 "${randomQuote}"\n\n`;
     msg += `┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n`;
-    msg += `🔥 *DEVELOPER : BAGGA SHER MD*`;
+    msg += `🔥 *DEVELOPER : 𓆩𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇_𝐗𝐃𓆪*`;
 
     return await conn.sendMessage(m.chat, { text: msg }, { quoted: mek });
 });
